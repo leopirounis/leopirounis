@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I’m Leonidas!
 
-<!--
-**leopirounis/leopirounis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently pursuing an MSc degree in Computer Science at the University of Piraeus.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Python and Django web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning advanced Django concepts and software engineering practices
+
+👯 I’m looking to collaborate on Python, Django, and web development projects
+
+🤔 I’m looking for help with improving backend architecture and scalability
+
+💬 Ask me about Python, Django, mathematics, or problem-solving
+
+📫 How to reach me: leopirounis@gmail.com
+ | [LinkedIn](https://www.linkedin.com/in/leonidas-pirounis-a92154324/)
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I’ve been teaching mathematics for over 7 years and enjoy playing the electric guitar 🎸
