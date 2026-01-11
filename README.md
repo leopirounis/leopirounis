@@ -4,7 +4,7 @@ I’m currently pursuing an MSc degree in Computer Science at the University of 
 
 🔭 I’m currently working on Python and Django web applications
 
-🌱 I’m currently learning advanced Django concepts and software engineering practices
+🌱 I’m currently learning advanced C, C++, Wordpress and software engineering practices
 
 👯 I’m looking to collaborate on Python, Django, and web development projects
 
