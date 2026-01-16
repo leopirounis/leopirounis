@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">Mathematician | M.Sc. Student in Computer Science</h3>
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/640b62f8-d79d-4bca-833e-628c6d3b8db6" />
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=leopirounis">
@@ -14,8 +13,7 @@
 - 👯 I’m looking to collaborate on Python, Django, and web development projects
 - 🤔 I’m looking for help with improving backend architecture and scalability
 - 💬 Ask me about Python, Django, mathematics, or problem-solving
-- 📫 How to reach me: leopirounis@gmail.com
-- | [LinkedIn](https://www.linkedin.com/in/leonidas-pirounis-a92154324/)
+- 📫 How to reach me: leopirounis@gmail.com| [LinkedIn](https://www.linkedin.com/in/leonidas-pirounis-a92154324/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’ve been teaching mathematics for over 7 years and enjoy playing the electric guitar 🎸
 
