@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Leonidas!
+
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/5f58d3fd-180e-4ec8-bf3d-4f0731cee875" />
 
 I’m currently pursuing an MSc degree in Computer Science at the University of Piraeus.
 
