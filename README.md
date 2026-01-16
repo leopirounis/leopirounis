@@ -17,16 +17,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’ve been teaching mathematics for over 7 years and enjoy playing the electric guitar 🎸
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leopirounis&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=leopirounis&theme=dracula&radius=10" alt="leopirounis's Activity Graph" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
