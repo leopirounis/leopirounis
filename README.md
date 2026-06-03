@@ -8,8 +8,8 @@
 
 ## 📌 About Me
 - I’m currently pursuing an MSc degree in Computer Science at the University of Piraeus.
-- 🔭 I’m currently working on Python and Django web applications
-- 🌱 I’m currently learning advanced C, C++, Wordpress and software engineering practices
+- 🔭 I’m currently working on Django web applications
+- 🌱 I’m currently learning advanced Java, C# and software engineering practices
 - 👯 I’m looking to collaborate on Python, Django, and web development projects
 - 🤔 I’m looking for help with improving backend architecture and scalability
 - 💬 Ask me about Python, Django, mathematics, or problem-solving
