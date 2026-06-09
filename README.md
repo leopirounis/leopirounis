@@ -8,14 +8,10 @@
 
 ## 📌 About Me
 - I’m currently pursuing an MSc degree in Computer Science at the University of Piraeus.
-- 🔭 I’m currently working on Django web applications
-- 🌱 I’m currently learning advanced Java, C# and software engineering practices
-- 👯 I’m looking to collaborate on Python, Django, and web development projects
-- 🤔 I’m looking for help with improving backend architecture and scalability
-- 💬 Ask me about Python, Django, mathematics, or problem-solving
+- 🌱 🔭 I’m currently learning advanced Java, C#, HTML, CSS and software engineering practices
+- 💬 Ask me about Python, mathematics or problem-solving
 - 📫 How to reach me: leopirounis@gmail.com| [LinkedIn](https://www.linkedin.com/in/leonidas-pirounis-a92154324/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I’ve been teaching mathematics for over 7 years and enjoy playing the electric guitar 🎸
+- ⚡ Fun fact: I’ve been teaching mathematics for over 7 years,I enjoy playing the electric guitar 🎸 and chess ♟️
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
