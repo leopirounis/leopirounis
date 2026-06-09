@@ -9,7 +9,7 @@
 ## 📌 About Me
 - I’m currently pursuing an MSc degree in Computer Science at the University of Piraeus.
 - 🌱 🔭 I’m currently learning advanced Java, C#, HTML, CSS and software engineering practices
-- 💬 Ask me about Python, mathematics or problem-solving
+- 💬 Ask me about Python, Django, Mathematics or Problem-Solving
 - 📫 How to reach me: leopirounis@gmail.com| [LinkedIn](https://www.linkedin.com/in/leonidas-pirounis-a92154324/)
 - ⚡ Fun fact: I’ve been teaching mathematics for over 7 years,I enjoy playing the electric guitar 🎸 and chess ♟️
 
